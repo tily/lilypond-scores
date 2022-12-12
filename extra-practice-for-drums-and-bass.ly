@@ -12,11 +12,11 @@ notes =  {
   bes8 \2 f16 \3 bes \2 r16 aes \2 f \3 bes \2 r8 bes \2 c \2 bes16 \2 aes \2
   f8. \3 f16 \3 aes \2 bes8 \2 c16 \2 (c8) \2 bes16 \2 c \2 bes \2 aes \2 es8 \3
   f'4 \1 es \1 c8 \2 bes \2 c16 \2 bes \2 es,8 \3
-  f
+  f f
 }
 
 \header {
-  title = "ドラムとベースは居残り練習"
+  title = "Extra Practice for Drums and Bass"
   composer = "kenapo"
 }
 
