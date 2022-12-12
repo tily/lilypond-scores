@@ -22,7 +22,6 @@
     b4. b8 cis4. c8
   
     d8 r8 a,8 b8 cis8 d8 fis8 a8
-    bes8 a,8 g8 cis8 
+    bes8 a,8 g8 cis8
   }
-  % \midi { \tempo 4 = 100 }
 }
